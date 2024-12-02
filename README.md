@@ -19,7 +19,7 @@
   - 통계 모델링을 통해 데이터 패턴을 분석하고 예측 모델을 생성  
   - 연구 데이터를 정리하고 분석하여 학술 발표 및 보고서에 기여  
 
-- <img src="sql-logo.png" alt="SQL" width="20"/> **SQL**
+- <img src="sql-logo.jpeg" alt="SQL" width="20"/> **SQL**
   - PostgreSQL과 MySQL 환경에서 복잡한 데이터 쿼리와 최적화 작업 수행  
   - 데이터 정규화 및 인덱스를 활용하여 대규모 데이터베이스의 성능 개선  
   - 분석을 위한 데이터 파이프라인 설계 및 ETL(Extract, Transform, Load) 작업 경험  
