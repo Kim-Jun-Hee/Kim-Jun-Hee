@@ -12,8 +12,9 @@
 - <img src="python-logo.png" alt="Python" width="40"/> **Python** 
   - Pandas와 NumPy를 활용하여 데이터 전처리 및 분석  
   - TensorFlow와 PyTorch를 이용한 딥러닝 모델 개발 및 하이퍼파라미터 최적화  
-  - Matplotlib을 사용한 데이터 시각화 및 분석 보고서 작성
+  - Matplotlib을 사용한 데이터 시각화
   - numpy를 사용하여 머신러닝 코드 구현
+  - BeautifulSoup을 활용한 사이트 크롤링 구현
 
 - <img src="r-logo.png" alt="R" width="40"/> **R**
   - ggplot2를 이용한 데이터 시각화와 패턴 분석
