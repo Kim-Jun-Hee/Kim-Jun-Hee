@@ -31,31 +31,31 @@
 
 # 📂 프로젝트 소개
 
-- 🎯 *[SQL Project : 택배 물류량과 사회적 요인 간의 관계 분석]*  
+✅ **SQL Project : 택배 물류량과 사회적 요인 간의 관계 분석**  
    - **설명:** 머신러닝을 활용해 고객 이탈 가능성을 예측하는 모델을 개발하고 최적화  
    - **주요 기술:** Python (Pandas, Scikit-learn), SQL  
    - **프로젝트 기간:** 2024.01 ~ 2024.02  
    - 👉 [프로젝트 상세보기](https://github.com/Kim-Jun-Hee/project1)
 
-2. 📈 **[파이썬 데이터 분석 Project : 스낵시장의 트랜드와 소비자 요구]**  
+✅ **파이썬 데이터 분석 Project : 스낵시장의 트랜드와 소비자 요구**  
    - **설명:** Tableau를 활용해 매출 데이터를 시각화하고 경영 인사이트를 제공  
    - **주요 기술:** Tableau, Python (Matplotlib)  
    - **프로젝트 기간:** 2024.03 ~ 2024.04  
    - 👉 [프로젝트 상세보기](https://github.com/Kim-Jun-Hee/project2)
 
-3. 🤖 **[파이썬 딥러닝 Project : 음성 · 텍스트 기반 감정 숏폼 콘텐츠 제작]**  
+✅ **파이썬 딥러닝 Project : 음성 · 텍스트 기반 감정 숏폼 콘텐츠 제작**  
    - **설명:** TensorFlow를 이용해 이미지 데이터를 분류하는 딥러닝 모델 구축  
    - **주요 기술:** Python (TensorFlow, NumPy), OpenCV  
    - **프로젝트 기간:** 2024.05 ~ 2024.06  
    - 👉 [프로젝트 상세보기](https://github.com/Kim-Jun-Hee/project3)
 
-4. 📊 **[수자원 공모전 Project : SPI6를 활용한 미래 가뭄 예측 시스템]**  
+✅ **수자원 공모전 Project : SPI6를 활용한 미래 가뭄 예측 시스템**  
    - **설명:** 고객 데이터를 분석하여 개인화된 추천 시스템 구현  
    - **주요 기술:** Python (Pandas, Surprise), SQL  
    - **프로젝트 기간:** 2024.07 ~ 2024.08  
    - 👉 [프로젝트 상세보기](https://github.com/Kim-Jun-Hee/project4)
 
-5. 🌐 **[세종시 공모전 Project : 세종엔에서 만나는 AI와 빅데이터를 활용한 개인 맞춤형 병원 · 음식점 추천 시스템]**  
+✅ **세종시 공모전 Project : 세종엔에서 만나는 AI와 빅데이터를 활용한 개인 맞춤형 병원 · 음식점 추천 시스템**  
    - **설명:** BeautifulSoup를 활용하여 웹 데이터를 수집하고 분석  
    - **주요 기술:** Python (BeautifulSoup, Requests), Matplotlib  
    - **프로젝트 기간:** 2024.09 ~ 2024.10  
