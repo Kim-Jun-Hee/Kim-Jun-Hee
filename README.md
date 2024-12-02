@@ -5,8 +5,8 @@
 > 프로젝트를 통해 데이터 전처리, 분석, 시각화 전 과정을 수행하며 가독성과 재사용성을 고려한 코드 작성 능력과 데이터 처리 파이프라인 구현 경험을 쌓았고 딥러닝 모델 개발을 통해 데이터 기반 문제 해결 능력과 모델 최적화 기술 역량을 발전시켜 왔습니다.
 > 
 > 프로젝트에 대한 내용은 [![PROJECT](https://img.shields.io/badge/PROJECT-green?style=flat-square)](https://github.com/Kim-Jun-Hee/Portfolio_kjh) 이곳을 통해 확인하실 수 있습니다!
->
-> 
+
+<br></br>
 # 💻 SKILL 스택 및 역량
 
 - <img src="python-logo.png" alt="Python" width="40"/> **Python** 
