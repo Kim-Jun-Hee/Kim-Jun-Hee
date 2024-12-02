@@ -10,14 +10,15 @@
 # 💻 SKILL 스택 및 역량
 
 - <img src="python-logo.png" alt="Python" width="40"/> **Python** 
-  - Pandas와 NumPy를 활용하여 데이터 전처리와 분석을 수행하며, 복잡한 데이터셋에서도 효율적인 결과를 도출  
-  - TensorFlow와 PyTorch를 이용한 딥러닝 모델 개발 및 하이퍼파라미터 최적화 경험  
-  - Jupyter Notebook과 Matplotlib을 사용한 데이터 시각화 및 분석 보고서 작성  
+  - Pandas와 NumPy를 활용하여 데이터 전처리 및 분석  
+  - TensorFlow와 PyTorch를 이용한 딥러닝 모델 개발 및 하이퍼파라미터 최적화  
+  - Matplotlib을 사용한 데이터 시각화 및 분석 보고서 작성
+  - numpy를 사용하여 머신러닝 코드 구현
 
 - <img src="r-logo.png" alt="R" width="40"/> **R**
-  - ggplot2를 이용한 데이터 시각화와 dplyr로 대규모 데이터 처리 경험  
-  - 통계 모델링을 통해 데이터 패턴을 분석하고 예측 모델을 생성  
-  - 연구 데이터를 정리하고 분석하여 학술 발표 및 보고서에 기여  
+  - ggplot2를 이용한 데이터 시각화와 패턴 분석
+  - 머신러닝 및 통계 모델링을 통해 데이터 분석 및 예측 모델 설계  
+  - dplyr을 활용한 대규모 데이터 처리 및 효율적인 데이터 전처리 
 
 - <img src="sql-logo.png" alt="SQL" width="40"/> **SQL**
   - PostgreSQL과 MySQL 환경에서 복잡한 데이터 쿼리와 최적화 작업 수행  
