@@ -22,9 +22,9 @@
   - dplyr을 활용한 대규모 데이터 처리 및 효율적인 데이터 전처리 
 
 - <img src="sql-logo.png" alt="SQL" width="40"/> **SQL**
-  - PostgreSQL과 MySQL 환경에서 복잡한 데이터 쿼리와 최적화 작업 수행  
-  - 데이터 정규화 및 인덱스를 활용하여 대규모 데이터베이스의 성능 개선  
-  - 분석을 위한 데이터 파이프라인 설계 및 ETL(Extract, Transform, Load) 작업 경험  
+  - DML(데이터 조작어)과 DDL(데이터 정의어)을 활용한 데이터 처리 및 테이블 구조 관리  
+  - 다양한 Join 및 서브쿼리를 이용한 복잡한 데이터 분석 및 병합 작업 수행
+  - 성능 최적화를 위한 데이터베이스 튜닝
 
 - <img src="linux-logo.png" alt="Linux" width="40"/> **Linux**
   - Ubuntu 및 CentOS 환경에서 서버 관리 및 네트워크 설정  
