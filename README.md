@@ -10,7 +10,9 @@
 # 💻 SKILL 스택 및 역량
 
 - **![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)**  
-  데이터 분석, 머신러닝, 딥러닝 모델 구현에 활용. Pandas, NumPy, TensorFlow, PyTorch 숙련  
+  데이터 분석
+  머신러닝
+  딥러닝 모델 구현에 활용. Pandas, NumPy, TensorFlow, PyTorch 숙련  
 
 - **![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)**  
   통계적 데이터 분석과 시각화에 활용. ggplot2, dplyr을 이용한 데이터 처리 경험  
