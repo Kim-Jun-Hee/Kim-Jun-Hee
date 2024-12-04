@@ -6,7 +6,10 @@
 > 
 > 프로젝트에 대한 내용은 [![PROJECT](https://img.shields.io/badge/PROJECT-green?style=flat-square)](https://github.com/Kim-Jun-Hee/Portfolio_kjh) 이곳을 통해 한눈에 확인하실 수 있습니다!
 > 자세한 내용은 아래 프로젝트에 해당하는 링크를 확인하시면 됩니다.
-
+> 
+## 📧 Contact
+- ✉️ 이메일: [kjhata@naver.com](mailto:kjhata@naver.com)
+- 
 # 💻 SKILL 스택 및 역량
 
 - <img src="python-logo.png" alt="Python" width="40"/> **Python** 
