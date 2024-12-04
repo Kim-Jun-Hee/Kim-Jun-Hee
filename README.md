@@ -9,7 +9,8 @@
 > 
 ## 📧 Contact
 - ✉️ 이메일: [kjhata@naver.com](mailto:kjhata@naver.com)
-- 
+- ✉️ 이메일: [juni991212@gmail.com](mailto:juni991212@gmail.com)
+
 # 💻 SKILL 스택 및 역량
 
 - <img src="python-logo.png" alt="Python" width="40"/> **Python** 
