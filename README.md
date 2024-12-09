@@ -10,6 +10,7 @@
 ## 📧 Contact
 - ✉️ 이메일: [kjhata@naver.com](mailto:kjhata@naver.com)
 - ✉️ 이메일: [juni991212@gmail.com](mailto:juni991212@gmail.com)
+<br></br>
 
 # 💻 SKILL 스택 및 역량
 
@@ -32,6 +33,7 @@
 
 - <img src="tableau-logo.png" alt="Tableau" width="40"/> **Tableau**
   - 대시보드 설계 및 데이터 시각화를 통한 인사이트 제공  
+<br></br>
 
 # 📂 프로젝트 소개
 
